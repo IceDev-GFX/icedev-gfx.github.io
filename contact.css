@@ -1,0 +1,481 @@
+/*
+	@name contact
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1920px; width: 1920px; height: 1080px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#_bg__contact {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(239.06,239.06,239.06,1);
+}
+
+
+#rectangle_2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(255,255,255,0);
+	background: -webkit-linear-gradient(-180deg , rgba(19.09,82.23,140.52,1) 0%, rgba(11.43,67.39,133.08,0.8) 100%);
+	background: -o-linear-gradient(-180deg , rgba(19.09,82.23,140.52,1) 0%, rgba(11.43,67.39,133.08,0.8) 100%);
+	background: -moz-linear-gradient(-180deg , rgba(19.09,82.23,140.52,1) 0%, rgba(11.43,67.39,133.08,0.8) 100%);
+	background: -ms-linear-gradient(-180deg , rgba(19.09,82.23,140.52,1) 0%, rgba(11.43,67.39,133.08,0.8) 100%);
+	background: linear-gradient(-180deg , rgba(19.09,82.23,140.52,1) 0%, rgba(11.43,67.39,133.08,0.8) 100%);
+}
+
+
+#contact_me {
+	top: 205px;
+	left: 59px;
+	width: 827px;
+	height: 163px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 96px;
+	font-weight: bold;
+	text-align: left;
+	-webkit-text-stroke-width: px;
+	-webkit-text-stroke-color: #;
+	background-image: linear-gradient(-176.68211900718deg , rgba(120,161.6,185,1) 0%, rgba(139.29,192.83,242.25,1) 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	-ms-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-o-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-webkit-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-moz-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	color:#000000;
+}
+
+
+#line_4 {
+	top: 333px;
+	left: 59px;
+	width: 618px;
+	height: 1px;
+	
+	-ms-transform:rotate(-0.09deg);
+	-o-transform:rotate(-0.09deg);
+	-webkit-transform:rotate(-0.09deg);
+	-moz-transform:rotate(-0.09deg);
+	transform:rotate(-0.09deg);
+	background:#FFFFFF;
+}
+
+
+#contact_me_ek1 {
+	top: 205px;
+	left: 59px;
+	width: 827px;
+	height: 163px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 96px;
+	font-weight: bold;
+	text-align: left;
+	-webkit-text-stroke-width: px;
+	-webkit-text-stroke-color: #;
+	background-image: linear-gradient(-176.68211900718deg , rgba(120,161.6,185,1) 0%, rgba(139.29,192.83,242.25,1) 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	-ms-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-o-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-webkit-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-moz-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	color:#000000;
+}
+
+
+#contact_me_ek2 {
+	top: 205px;
+	left: 59px;
+	width: 827px;
+	height: 163px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 96px;
+	font-weight: bold;
+	text-align: left;
+	-webkit-text-stroke-width: px;
+	-webkit-text-stroke-color: #;
+	background-image: linear-gradient(-176.68211900718deg , rgba(120,161.6,185,1) 0%, rgba(139.29,192.83,242.25,1) 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	-ms-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-o-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-webkit-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-moz-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	color:#000000;
+}
+
+
+#line_5 {
+	top: 333px;
+	left: 59px;
+	width: 618px;
+	height: 1px;
+	
+	-ms-transform:rotate(-0.09deg);
+	-o-transform:rotate(-0.09deg);
+	-webkit-transform:rotate(-0.09deg);
+	-moz-transform:rotate(-0.09deg);
+	transform:rotate(-0.09deg);
+	background:#FFFFFF;
+}
+
+
+#line_6 {
+	top: 333px;
+	left: 59px;
+	width: 618px;
+	height: 1px;
+	
+	-ms-transform:rotate(-0.09deg);
+	-o-transform:rotate(-0.09deg);
+	-webkit-transform:rotate(-0.09deg);
+	-moz-transform:rotate(-0.09deg);
+	transform:rotate(-0.09deg);
+	background:#FFFFFF;
+}
+
+#navigation {
+	top: 51px;
+	left: 426px;
+	width: 1127px;
+	height: 48px;
+}
+
+#_my_projects {
+	top: 0px;
+	left: 521px;
+	width: 281px;
+	height: 60px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 32px;
+	font-weight: bold;
+	text-align: left;
+	letter-spacing: 3.2px;
+	-ms-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-o-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-webkit-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-moz-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	color:#FFFFFF;
+}
+
+
+#contact_me_ek3 {
+	top: 0px;
+	left: 892px;
+	width: 272px;
+	height: 60px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 32px;
+	font-weight: bold;
+	text-align: left;
+	letter-spacing: 3.2px;
+	-ms-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-o-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-webkit-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-moz-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	color:#FFFFFF;
+}
+
+
+#line_1 {
+	top: 48px;
+	left: 277px;
+	width: 74px;
+	height: 3px;
+	-ms-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	background:#FFFFFF;
+}
+
+
+#line_2 {
+	top: 48px;
+	left: 555px;
+	width: 200px;
+	height: 3px;
+	-ms-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	background:#FFFFFF;
+}
+
+
+#line_7 {
+	top: 48px;
+	left: 910px;
+	width: 200px;
+	height: 3px;
+	-ms-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	background:#FFFFFF;
+}
+
+
+#line_6_ek1 {
+	top: 48px;
+	left: 16px;
+	width: 74px;
+	height: 3px;
+	-ms-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	background:#FFFFFF;
+}
+
+
+#_home {
+	top: 0px;
+	left: 0px;
+	width: 146px;
+	height: 60px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 32px;
+	font-weight: bold;
+	text-align: left;
+	letter-spacing: 3.2px;
+	-ms-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-o-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-webkit-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-moz-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	color:#FFFFFF;
+}
+
+
+#_about {
+	top: 0px;
+	left: 251px;
+	width: 165px;
+	height: 60px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 32px;
+	font-weight: bold;
+	text-align: left;
+	letter-spacing: 3.2px;
+	-ms-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-o-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-webkit-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-moz-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	color:#FFFFFF;
+}
+
+#discord {
+	top: 348px;
+	left: 11px;
+	width: 1770px;
+	height: 358px;
+}
+
+#discord_ek1 {
+	top: 0px;
+	left: 321px;
+	width: 378.21px;
+	height: 106.37px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 64px;
+	font-weight: bold;
+	text-align: left;
+	-webkit-text-stroke-width: px;
+	-webkit-text-stroke-color: #;
+	background-image: linear-gradient(-176.68211900718deg , rgba(120,161.6,185,1) 0%, rgba(139.29,192.83,242.25,1) 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	-ms-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-o-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-webkit-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-moz-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	color:#000000;
+}
+
+
+#line_7_ek1 {
+	top: 74px;
+	left: 321px;
+	width: 272.88px;
+	height: 1px;
+	
+	-ms-transform:rotate(0.63deg);
+	-o-transform:rotate(0.63deg);
+	-webkit-transform:rotate(0.63deg);
+	-moz-transform:rotate(0.63deg);
+	transform:rotate(0.63deg);
+	background:#FFFFFF;
+}
+
+
+#you_can_dm_me_on_my_discord____skilllssue_2887_format_username__your_roblox_username_here__or_the_username_of_account_with_the_avatar_you_want__background_color__background_color_here__for_now_i_do_only_profile_pictures__thumbnails__banners__ads_etc_will_be_soon__customized_backgrounds_will_be_soon_as_well___position__the_position_of_the_character__try_giving_as_much_details_as_you_can__the_more_details_you_give__the_better_the_result___additional_items__if_you_want_the_character_to_hold_something__will_cost_more_robux__if_you_don_t_want_any_additional_items__type__none__ {
+	top: 88px;
+	left: 331px;
+	width: 1468px;
+	height: 287px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 24px;
+	text-align: left;
+	letter-spacing: 2.4px;
+	color:#FFFFFF;
+}
+
+
+#discord_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 304.1px;
+	height: 350px;
+}
+
+#forms {
+	top: 713px;
+	left: 11px;
+	width: 1143.64px;
+	height: 352.38px;
+}
+
+#google_forms {
+	top: 0px;
+	left: 321px;
+	width: 640px;
+	height: 106px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 64px;
+	font-weight: bold;
+	text-align: left;
+	-webkit-text-stroke-width: px;
+	-webkit-text-stroke-color: #;
+	background-image: linear-gradient(-176.68211900718deg , rgba(120,161.6,185,1) 0%, rgba(139.29,192.83,242.25,1) 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	-ms-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-o-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-webkit-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-moz-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	color:#000000;
+}
+
+
+#line_8 {
+	top: 75px;
+	left: 321px;
+	width: 494.88px;
+	height: 1px;
+	
+	-ms-transform:rotate(0.46deg);
+	-o-transform:rotate(0.46deg);
+	-webkit-transform:rotate(0.46deg);
+	-moz-transform:rotate(0.46deg);
+	transform:rotate(0.46deg);
+	background:#FFFFFF;
+}
+
+
+#you_can_also_place_an_order_for_a_roblox_gfx_from_google_forms__all_you_need_to_do_is_to_answer_the_questions_and_give_as_much_details_as_you_can_and_i_will_try_to_make_your_amazing_ideas_a_reality_ {
+	top: 82px;
+	left: 331px;
+	width: 841.64px;
+	height: 287.38px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 24px;
+	text-align: left;
+	letter-spacing: 2.4px;
+	color:#FFFFFF;
+}
+
+
+#forms_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 304.1px;
+	height: 350px;
+}
+
+#button {
+	top: 947px;
+	left: 342px;
+	width: 319px;
+	height: 79px;
+}
+
+#_rectangle_6 {
+	top: 0px;
+	left: 0px;
+	width: 319px;
+	height: 79px;
+	-ms-border-radius: 40px;
+	-o-border-radius: 40px;
+	-moz-border-radius: 40px;
+	-webkit-border-radius: 40px;
+	border-radius: 40px;
+	-ms-box-shadow:5px 5px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:5px 5px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:5px 5px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:5px 5px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:5px 5px 4px 1px rgba(0,0,0,0.25);
+	background:rgba(255,255,255,0);
+	background: -webkit-linear-gradient(-176.68211900718deg , rgba(120,161.6,185,1) 0%, rgba(139.29,192.83,242.25,1) 100%);
+	background: -o-linear-gradient(-176.68211900718deg , rgba(120,161.6,185,1) 0%, rgba(139.29,192.83,242.25,1) 100%);
+	background: -moz-linear-gradient(-176.68211900718deg , rgba(120,161.6,185,1) 0%, rgba(139.29,192.83,242.25,1) 100%);
+	background: -ms-linear-gradient(-176.68211900718deg , rgba(120,161.6,185,1) 0%, rgba(139.29,192.83,242.25,1) 100%);
+	background: linear-gradient(-176.68211900718deg , rgba(120,161.6,185,1) 0%, rgba(139.29,192.83,242.25,1) 100%);
+}
+
+
+#place_an_order {
+	top: 23px;
+	left: 31px;
+	width: 301px;
+	height: 53px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 28px;
+	font-weight: bold;
+	text-align: left;
+	-ms-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-o-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-webkit-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-moz-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	color:#FFFFFF;
+}
+
+
+
+/* Add your custom CSS here */

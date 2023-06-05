@@ -1,0 +1,236 @@
+/*
+	@name about
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1920px; width: 1920px; height: 1080px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#_bg__about {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(239.06,239.06,239.06,1);
+}
+
+
+#rectangle_2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(255,255,255,0);
+	background: -webkit-linear-gradient(-180deg , rgba(19.09,82.23,140.52,1) 0%, rgba(11.43,67.39,133.08,0.8) 100%);
+	background: -o-linear-gradient(-180deg , rgba(19.09,82.23,140.52,1) 0%, rgba(11.43,67.39,133.08,0.8) 100%);
+	background: -moz-linear-gradient(-180deg , rgba(19.09,82.23,140.52,1) 0%, rgba(11.43,67.39,133.08,0.8) 100%);
+	background: -ms-linear-gradient(-180deg , rgba(19.09,82.23,140.52,1) 0%, rgba(11.43,67.39,133.08,0.8) 100%);
+	background: linear-gradient(-180deg , rgba(19.09,82.23,140.52,1) 0%, rgba(11.43,67.39,133.08,0.8) 100%);
+}
+
+
+#about_me {
+	top: 205px;
+	left: 59px;
+	width: 827px;
+	height: 163px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 96px;
+	font-weight: bold;
+	text-align: left;
+	-webkit-text-stroke-width: px;
+	-webkit-text-stroke-color: #;
+	background-image: linear-gradient(-176.68211900718deg , rgba(120,161.6,185,1) 0%, rgba(139.29,192.83,242.25,1) 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	-ms-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-o-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-webkit-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-moz-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	color:#000000;
+}
+
+
+#about {
+	top: 205px;
+	left: 737px;
+	width: 1440px;
+	height: 820px;
+}
+
+
+#line_4 {
+	top: 331px;
+	left: 59px;
+	width: 500.01px;
+	height: 1px;
+	
+	-ms-transform:rotate(-0.34deg);
+	-o-transform:rotate(-0.34deg);
+	-webkit-transform:rotate(-0.34deg);
+	-moz-transform:rotate(-0.34deg);
+	transform:rotate(-0.34deg);
+	background:#FFFFFF;
+}
+
+
+#hello__i_am_icedev_and_i_am_an_experienced_roblox_ui___graphics_designer_as_well_as_a_lua_programmer__i_have_a_passion_for_creating_visually_stunning_and_user_friendly_interfaces_for_roblox_games__and_i_am_constantly_striving_to_improve_my_skills_and_stay_up_to_date_with_the_latest_design_trends__in_addition_to_my_design_work__i_also_have_experience_with_lua_programming__i_enjoy_the_challenge_of_creating_complex_game_mechanics_and_systems__and_i_am_always_looking_for_new_ways_to_push_the_boundaries_of_what_is_possible_in_roblox___at_the_moment_i_do_not_do_any_ui_or_programming_commissions___thank_you_for_taking_the_time_to_learn_a_little_bit_about_me__if_you_have_any_questions_or_would_like_to_work_together_on_a_project__please_don_t_hesitate_to_reach_out_ {
+	top: 408px;
+	left: 64px;
+	width: 1126px;
+	height: 639px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 32px;
+	text-align: left;
+	letter-spacing: 3.2px;
+	color:#FFFFFF;
+}
+
+
+#_my_projects {
+	top: 51px;
+	left: 947px;
+	width: 281px;
+	height: 60px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 32px;
+	font-weight: bold;
+	text-align: left;
+	letter-spacing: 3.2px;
+	-ms-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-o-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-webkit-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-moz-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	color:#FFFFFF;
+}
+
+
+#_contact_me {
+	top: 51px;
+	left: 1318px;
+	width: 272px;
+	height: 60px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 32px;
+	font-weight: bold;
+	text-align: left;
+	letter-spacing: 3.2px;
+	-ms-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-o-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-webkit-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-moz-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	color:#FFFFFF;
+}
+
+
+#line_1 {
+	top: 99px;
+	left: 703px;
+	width: 74px;
+	height: 3px;
+	-ms-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	background:#FFFFFF;
+}
+
+
+#line_2 {
+	top: 99px;
+	left: 981px;
+	width: 200px;
+	height: 3px;
+	-ms-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	background:#FFFFFF;
+}
+
+
+#line_7 {
+	top: 99px;
+	left: 1336px;
+	width: 200px;
+	height: 3px;
+	-ms-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	background:#FFFFFF;
+}
+
+
+#line_6 {
+	top: 99px;
+	left: 442px;
+	width: 74px;
+	height: 3px;
+	-ms-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	background:#FFFFFF;
+}
+
+
+#_home {
+	top: 51px;
+	left: 426px;
+	width: 146px;
+	height: 60px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 32px;
+	font-weight: bold;
+	text-align: left;
+	letter-spacing: 3.2px;
+	-ms-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-o-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-webkit-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-moz-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	color:#FFFFFF;
+}
+
+
+#about_ek1 {
+	top: 51px;
+	left: 677px;
+	width: 165px;
+	height: 60px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 32px;
+	font-weight: bold;
+	text-align: left;
+	letter-spacing: 3.2px;
+	-ms-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-o-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-webkit-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-moz-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	color:#FFFFFF;
+}
+
+
+
+/* Add your custom CSS here */
